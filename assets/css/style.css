@@ -1,0 +1,154 @@
+/*body, html *{
+  border: 1px solid red;
+}*/
+
+.card{
+  text-align: justify;
+
+}
+
+
+.btn{
+  color:#ffffff;
+}
+
+hr{
+  border:1px;
+  color:#000000
+  font-size: 'normal';
+}
+
+/*clase nav bar*/
+.fuente span{
+font-family: 'Lobster','cursive';
+font-size: 37pt;
+font-style: 'normal';
+font-variant: 'normal';
+font-weight: 700;
+line-height: 26.4px;
+}
+
+.ingre {
+  font-family: 'Cabin',bold;
+  font-weight: 700;
+  font-size: 40pt;
+  width: 100%;
+  text-align: left;
+}
+
+.otro{
+font-family: 'Lobster',cursive;
+}
+
+/*clase footer*/
+footer{
+  background-color: #373A3C;
+  text-align: center;
+  font-family: 'Lobster',cursive;
+  color:white;
+  padding-top: 50pt;
+  padding-bottom: 50pt;
+  font-size: 37pt;
+}
+
+.subtexto span{
+font-family: 'Cabin', sans-serif;
+font-size: 28pt;
+font-weight: 700;
+font-variant: normal;
+font-weight: 700;
+line-height: 26.4px;
+}
+
+.suscripcion {
+text-align: center;
+font-family: Cabin;
+font-style: bold;
+font-variant: normal;
+font-size: 40pt;
+padding-top: 150pt;
+padding-bottom: 150pt;
+background: #DC3545;
+color: #ffffff;
+padding: 50pt;
+}
+
+body {
+  text-align: left;
+  color: 'bg-danger';
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: cabin;
+}
+
+
+
+.cocina{
+  text-decoration: underline;
+  }
+
+  .mesa{
+    text-decoration: underline;
+    }
+
+
+.imagen {
+  text-align: right;
+  color: #ffffff;
+  padding: 0rem 0rem;
+}
+
+.textos {
+  text-align: right;
+  color: #ffffff;
+  padding: 0rem 0rem;
+  margin: 50pt;
+}
+
+.centrado {
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+.evento {
+  width: 30%;
+
+}
+
+.evento img {
+  width: 75%;
+}
+
+nav {
+  text-align: left;
+  padding: 1.25rem 4rem;
+  position: fixed;
+  width: 100vw;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+  vertical-align: middle;
+}
+
+
+.icono svg {
+  fill: #ffffff;
+   width: 2rem;
+}
+
+
+.carousel-indicators li{
+  border-radius: 200px 200px 200px 200px;
+  -moz-border-radius: 200px 200px 200px 200px;
+  -webkit-border-radius: 200px 200px 200px 200px;
+  border: 0px solid #ffffff;
+}
